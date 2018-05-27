@@ -9,8 +9,7 @@ O que vamos aprender:
 
 ## HTML - Hyper Text Mark Language 
 
-
-    Os arquivos com extenção HTML são arquivos de texto, onde os navegadores (mozilla, chrome, etc...) reconhecem as marcações por meio de tags, < abre tag> 'conteúdo' < / fecha tag> e representan seu conteúdo conforme for marcado, por exemplo um título  deve ser escrito dentro de uma tag chamada: H1 < h1> Título < / h1> 
+Os arquivos com extenção HTML são arquivos de texto, onde os navegadores (mozilla, chrome, etc...) reconhecem as marcações por meio de tags, < abre tag> 'conteúdo' < / fecha tag> e representan seu conteúdo conforme for marcado, por exemplo um título  deve ser escrito dentro de uma tag chamada: H1 < h1> Título < / h1> 
 
 ## Hierarquia da estrutura. 
 
